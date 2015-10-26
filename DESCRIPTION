@@ -1,0 +1,15 @@
+﻿Package: revision
+
+Type: Package
+
+Title: Corrección automática de examen
+
+Version: 1.0
+
+Date: 2015-07-12
+
+Author: Angelo Bartsch Jiménez
+Maintainer: A quien preguntar: <angelo.bartsch@uv.cl>
+
+Description: El siguiente paquete tiene como objetivo corregir automáticamente un examen a partir de un archivo que contiene las pautas y respuetas. Se establece una escala del 1 al 7 y se puede elegir el nivel de exigencia y además una tolerancia de error en cálculos numéricos. 
+License: 
